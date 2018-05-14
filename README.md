@@ -3,6 +3,6 @@ This project was created with [Create React App](https://github.com/facebookincu
 
 ## Some of the features
 * Add and remove ingredients
-* Vary price with ingredients
+* Price changes with the addition/removal of ingredients
 * Responsive design
 * Simple and user friendly
